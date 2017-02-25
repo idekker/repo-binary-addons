@@ -1,0 +1,1 @@
+pvr.aminopvr https://github.com/idekker/pvr.aminopvr Krypton
